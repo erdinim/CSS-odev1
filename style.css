@@ -1,0 +1,65 @@
+
+/* index Kısmı */
+body {
+
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+
+.baslık h1 {
+    color: red;
+    font-size: 50px;
+    
+}
+
+
+.baslık2 {
+    color: tomato;
+    font-size: 25px;
+}
+.list1 li{
+    list-style: none;
+    display: inline;
+    margin: 10px;
+    font-size: 25px;
+
+}
+
+.list2  li{
+    list-style:circle;
+    list-style-position: inside;
+    padding: 5px;
+    color: rgb(46, 3, 39);
+    font-size: 20px;
+}
+
+/* about Kısmı */
+
+.about{
+    text-align: left;
+}
+
+h2 {
+    color:rebeccapurple ;
+    text-align: center;
+}
+h3 {
+    color: rgb(126, 126, 19);
+}
+
+
+
+/* Product Kısmı */
+
+
+
+ol li{
+    list-style-position: inside;
+    color: white;
+    font-size: 20px;
+    margin: 250px;
+    background-color: black;
+    
+}
